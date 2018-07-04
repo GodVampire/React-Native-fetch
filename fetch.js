@@ -69,7 +69,7 @@ function timeout_fetch(fetch_promise,timeout = 10000) {
     return abortable_promise ;
 }
 
-let common_url = 'https://api.allbasketballofchina.com/';  //服务器地址
+let common_url = 'https://.............’;  //服务器地址
 
 
 
