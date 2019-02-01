@@ -1,0 +1,22 @@
+{
+  "name": "React-Native-fetch",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Get requests are used through the body.",
+  "main": "fetch.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/GodVampire/React-Native-fetch.git"
+  },
+  "keywords": [
+      "react native",
+      "fetch",
+      "get with param"
+  ],
+  "author": "GodVampire",
+  "license": "MIT",
+  "homepage": "https://github.com/GodVampire/React-Native-fetch#readme",
+  "dependencies": {
+    "query-string": "^6.2.0"
+  }
+}
