@@ -1,2 +1,3 @@
 # React-Native-fetch
-Wait for the perfect
+
+Support for GET/POST/PUT/DELETE requests with parameters
